@@ -2,6 +2,7 @@
 
 <img align="left" alt="Obnol Github Stats" src="https://github-readme-stats.vercel.app/api?username=obnol&show_icons=true&count_private=true">
 
+
 [![Pullpo - DevCard](https://devcard.pullpo.io/api?user_id=cifa4dati08c73cha1rg&custom_title=Longbo%20%40%20Peersyst%20Technology&custom_subtitle=Developer&show_icons=true&disable_animations=false&title_color=00AEFF&text_color=FFFFFF&icon_color=2DDE98&ring_color=FFFFFF&bg_color=050F2C&image_url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F54996852%3Fv%3D4)](https://pullpo.io/products/devcard)
 
 <!--
